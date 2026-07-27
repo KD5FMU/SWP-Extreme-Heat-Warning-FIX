@@ -17,7 +17,7 @@
 #
 # --reset-state removes SkywarnPlus's cached alert state and wx-tail.wav
 # so the current alerts are rebuilt immediately on the next run.
-#
+# Created by ChatGPT OpenAI and Freddie Mac - KD5FMU July 2026
 
 set -Eeuo pipefail
 
